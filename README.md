@@ -10,6 +10,9 @@ PORT = 5000,
 DB = 'your-database',
 SECRET = 'add-your-jwt-secret-any-name',
 npm start for start this project
+
+
+
 1.For Frontend
 cd frontend,
 npm install, for all dependencies,
